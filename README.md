@@ -3,6 +3,7 @@
 A simple utility to generate custom Power BI themes from Excel inputs and JSON templates using Python. 🐍
 
 [![Watch the video](https://img.youtube.com/vi/lRWNpOoFIYA/0.jpg)](https://youtu.be/lRWNpOoFIYA)
+*Watch the video to find out more.*
 
 ## ✅ Features
 
