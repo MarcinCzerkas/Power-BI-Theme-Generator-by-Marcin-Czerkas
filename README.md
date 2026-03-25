@@ -76,3 +76,5 @@ UI in Excel
 
 ![Popup](/Assets/Popup.png)
 Popup after successful JSON generation
+
+![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&label=VIEWS&style=pixel)
