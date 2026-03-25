@@ -576,6 +576,13 @@
             },
             "transparency": 0
           }
+        ],
+        "pageSize": [
+          {
+            "pageSizeHeight": 1080,
+            "pageSizeWidth": 1920,
+            "pageSizeTypes": "Custom"
+          }
         ]
       }
     },
